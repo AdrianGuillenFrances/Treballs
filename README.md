@@ -5,4 +5,4 @@ Llistat de Treballs Sistemes de Representació Avançada.
 * [CMYK](https://adrianguillenfrances.github.io/CMYK/)
 * [Broom](https://adrianguillenfrances.github.io/Broom/)
 * [Biografía](https://adrianguillenfrances.github.io/4_Biografia/)
-* [Tarjetas](
+* [Tarjetas](https://adrianguillenfrances.github.io/Tarjetes/)
