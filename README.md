@@ -7,3 +7,6 @@ Llistat de Treballs Sistemes de Representació Avançada.
 * [Biografía](https://adrianguillenfrances.github.io/4_Biografia/)
 * [Tarjetas](https://adrianguillenfrances.github.io/Tarjetes/)
 * [Gridmoma](https://adrianguillenfrances.github.io/Gridmoma/)
+* [Landingpage](https://adrianguillenfrances.github.io/Landingpage/)
+* [Mondrian](https://adrianguillenfrances.github.io/Mondrian/)
+* [Minimalissimo](https://adrianguillenfrances.github.io/Minimalissimo/)
